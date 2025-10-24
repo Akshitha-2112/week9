@@ -23,6 +23,5 @@ pipeline {
                 bat 'python C:\DevOps\week-2/test_registration.py'
             }
         }
-
     }
 }
