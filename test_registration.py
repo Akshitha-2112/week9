@@ -40,7 +40,8 @@ except:
 
 # --- Wait for response and close ---
 time.sleep(3)
-print("✅ Test Completed Successfully!")
+print("Test Completed Successfully!")
 
 driver.quit()
+
 
